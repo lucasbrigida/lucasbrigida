@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lucasbrigida/lucasbrigida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/lucasbrigida/lucasbrigida/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/lucasbrigida/lucasbrigida/blob/main/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/lucasbrigida/lucasbrigida/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+
